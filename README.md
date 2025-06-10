@@ -11,12 +11,11 @@
 
 ## Introdução
 ### Nesta apresentação será abordado o desenvolvimento de um projeto de inventário inspirado no jogo Minecraft, utilizando tecnologias como HTML, CSS, PHP, Bootstrap e banco de dados MySQL.
-### Falaremos sobre o objetivo do inventário, os elementos utilizados no projeto, as dificuldades enfrentadas, as funcionalidades criadas (como cadastrar, editar, excluir e exibir itens) e as principais diferenças entre a versão com arquivo.txt e a versão com banco de dados.
+### Falaremos sobre o objetivo do inventário, os elementos utilizados no projeto, as dificuldades enfrentadas, as funcionalidades criadas (como cadastrar, editar, excluir e exibir itens) e as principais diferenças entre a versão com arquivo.txt e a versão com banco de dados. <br><br>
 
-###
 
-## Desenvolvimento do Trabalho
-### O que foi utilizado?
+## Desenvolvimento do Trabalho <br>
+### O que foi utilizado?<br>
 
 ### -HTML/CSS: para estrutura e estilização básica do layout inspirado no Minecraft.
 ### -Bootstrap: para facilitar a responsividade e layout moderno.
