@@ -1,11 +1,11 @@
-# Projeto Minecraft BD
+# Projeto Minecraft BD <br>
 
 ## Agenda
 ### -Introdução
 ### -Desenvolvimento do Trabalho
 ### -Desafios Encontrados
 ### -Resultado
-### -Referências <br><br><br>
+### -Referências <br><br>
 
 
 
@@ -20,16 +20,16 @@
 ### -HTML/CSS: para estrutura e estilização básica do layout inspirado no Minecraft.
 ### -Bootstrap: para facilitar a responsividade e layout moderno.
 ### -MySQL: substituindo o inventario.txt para armazenar os dados com mais segurança e flexibilidade.
-### -phpMyAdmin: interface visual para criação e manipulação do banco.
+### -phpMyAdmin: interface visual para criação e manipulação do banco.<br><br>
 
-## Por que essas tecnologias ?
+## Por que essas tecnologias ?<br>
 
 ### PHP e MySQL formam uma base sólida para aplicações web dinâmicas.
-### Bootstrap permite interface amigável e responsiva.
+### Bootstrap permite interface amigável e responsiva. <br><br>
 
-## Código usado no MySQL para funcionar a edição e exclusão
+## Código usado no MySQL para funcionar a edição e exclusão<br>
 
-### Para que o projeto pudesse editar e excluir corretamente os registros no banco, foi essencial definir um campo Id como chave primária e autoincrementável:
+### Para que o projeto pudesse editar e excluir corretamente os registros no banco, foi essencial definir um campo Id como chave primária e autoincrementável:<br>
 
 CREATE TABLE mine (
   Id INT(11) NOT NULL AUTO_INCREMENT,
