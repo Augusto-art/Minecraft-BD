@@ -31,12 +31,12 @@
 
 ### Para que o projeto pudesse editar e excluir corretamente os registros no banco, foi essencial definir um campo Id como chave primária e autoincrementável:<br>
 
-CREATE TABLE mine (
-  Id INT(11) NOT NULL AUTO_INCREMENT,
-  nome_item VARCHAR(100) NOT NULL,
-  qtd_item INT NOT NULL,
-  img_item VARCHAR(255) NOT NULL,
-  PRIMARY KEY (Id)
+CREATE TABLE mine (<br>
+  Id INT(11) NOT NULL AUTO_INCREMENT,<br>
+  nome_item VARCHAR(100) NOT NULL,<br>
+  qtd_item INT NOT NULL,<br>
+  img_item VARCHAR(255) NOT NULL,<br>
+  PRIMARY KEY (Id)<br>
 ); <br>
 
 ### Isso permite que cada item seja identificado de forma única via URL, como editar.php?id=3 ou excluir.php?id=4.<br><br><br>
@@ -47,7 +47,8 @@ CREATE TABLE mine (
 
 ### Cadastro (cadastro.php)<br>
 
-![Uploading cadastro.BD.png…]() <br>
+ ![cadastro BD](https://github.com/user-attachments/assets/827b26ee-98df-49be-b363-4ffe370391e2)<br>
+
 
 ### Esse código cadastra um item com nome, quantidade e imagem (via URL) no banco MySQL.<br><br>
 
@@ -72,28 +73,28 @@ CREATE TABLE mine (
 ## Diferenças principais: .txt vs MySQL<br>
 
 ## Antes (arquivo.txt):<br>
-### Os dados eram salvos em texto plano no formato nome|quantidade|imagem.<br>
-### Para sobrescrever ou editar, era necessário reprocessar o arquivo inteiro.<br>
-### Menos seguro e difícil de escalar.<br>
+### -Os dados eram salvos em texto plano no formato nome|quantidade|imagem.<br>
+### -Para sobrescrever ou editar, era necessário reprocessar o arquivo inteiro.<br>
+### -Menos seguro e difícil de escalar.<br>
 
 ## Agora (MySQL):<br>
-### Os dados são armazenados em colunas organizadas.<br>
-### A edição e exclusão são simples e diretas.<br>
-### Fácil de integrar com painéis, relatórios e outros sistemas.<br>
-### Permite o uso de URLs remotas para imagens.<br><br><br>
+### -Os dados são armazenados em colunas organizadas.<br>
+### -A edição e exclusão são simples e diretas.<br>
+### -Fácil de integrar com painéis, relatórios e outros sistemas.<br>
+### -Permite o uso de URLs remotas para imagens.<br><br><br>
 
 ## Desafios Encontrados<br>
 
-### Conectar corretamente o PHP com o banco de dados.<br>
-### Corrigir erro de nomes de colunas na tabela.<br>
-### Manter o layout antigo mesmo com novas funcionalidades (editar e excluir).<br><br><br>
+### -Conectar corretamente o PHP com o banco de dados.<br>
+### -Corrigir erro de nomes de colunas na tabela.<br>
+### -Manter o layout antigo mesmo com novas funcionalidades (editar e excluir).<br><br><br>
 
 ## Referências<br>
 
-### W3Schools - PHP e MySQL  Link: https://www.w3schools.com <br>
-### Documentação Bootstrap Link: https://getbootstrap.com <br>
-### Minecraft Wiki – para imagens e inspiração   Link: https://minecraft.fandom.com/wiki/Minecraft_Wiki  <br>
-### ChatGPT – auxílio na explicação e depuração de códigos   Link:https://chat.openai.com
+### -W3Schools - PHP e MySQL  Link: https://www.w3schools.com <br>
+### -Documentação Bootstrap Link: https://getbootstrap.com <br>
+### -Minecraft Wiki – para imagens e inspiração   Link: https://minecraft.fandom.com/wiki/Minecraft_Wiki  <br>
+### -ChatGPT – auxílio na explicação e depuração de códigos   Link:https://chat.openai.com
 
 
 
