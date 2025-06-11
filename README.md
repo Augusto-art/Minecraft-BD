@@ -100,9 +100,9 @@ CREATE TABLE mine (<br>
 
 ![Inventario  at](https://github.com/user-attachments/assets/551590bc-b760-4a83-b12f-14b9b9c6be3f) <br>
 
-![Cadastro immm](https://github.com/user-attachments/assets/cfe9cea0-5e80-48f0-98e6-6cc4e6ed530c) <br>
-
 ![edição inve](https://github.com/user-attachments/assets/d5bbab73-ddf2-403a-9a3a-04bb5e8ffa96) <br>
+
+![Cadastro immm](https://github.com/user-attachments/assets/cfe9cea0-5e80-48f0-98e6-6cc4e6ed530c) <br>
 
 ![xamp edit](https://github.com/user-attachments/assets/3a3b8b7f-ea09-4061-8afa-de42ec6c50ca)
 
