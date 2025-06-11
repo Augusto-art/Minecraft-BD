@@ -94,9 +94,17 @@ CREATE TABLE mine (<br>
 ### -W3Schools - PHP e MySQL  Link: https://www.w3schools.com <br>
 ### -Documentação Bootstrap Link: https://getbootstrap.com <br>
 ### -Minecraft Wiki – para imagens e inspiração   Link: https://minecraft.fandom.com/wiki/Minecraft_Wiki  <br>
-### -ChatGPT – auxílio na explicação e depuração de códigos   Link:https://chat.openai.com
+### -ChatGPT – auxílio na explicação e depuração de códigos   Link:https://chat.openai.com<br><br><br>
 
+## Prints do Inventário<br>
 
+![Inventario  at](https://github.com/user-attachments/assets/551590bc-b760-4a83-b12f-14b9b9c6be3f) <br>
+
+![Cadastro immm](https://github.com/user-attachments/assets/cfe9cea0-5e80-48f0-98e6-6cc4e6ed530c) <br>
+
+![edição inve](https://github.com/user-attachments/assets/d5bbab73-ddf2-403a-9a3a-04bb5e8ffa96) <br>
+
+![xamp edit](https://github.com/user-attachments/assets/3a3b8b7f-ea09-4061-8afa-de42ec6c50ca)
 
 
 
