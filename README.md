@@ -88,7 +88,6 @@ CREATE TABLE mine (<br>
 
 ## Referências<br>
 
-### -W3Schools - PHP e MySQL  Link: https://www.w3schools.com <br>
 ### -Documentação Bootstrap Link: https://getbootstrap.com <br>
 ### -Minecraft Wiki – para imagens e inspiração   Link: https://minecraft.fandom.com/wiki/Minecraft_Wiki  <br>
 ### -ChatGPT – auxílio na explicação e depuração de códigos   Link:https://chat.openai.com<br><br><br>
