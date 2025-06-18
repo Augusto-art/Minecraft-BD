@@ -81,9 +81,8 @@ CREATE TABLE mine (<br>
 ### -A edição e exclusão são simples e diretas.<br><br><br>
 
 
-## Desafios Encontrados<br>
+## Desafios Encontrados (Principais)<br>
 
-### -Conectar corretamente o PHP com o banco de dados.<br>
 ### -Ficar trocando de máquina.<br>
 ### -Manter o layout antigo mesmo com novas funcionalidades (editar e excluir).<br><br><br>
 
