@@ -74,19 +74,17 @@ CREATE TABLE mine (<br>
 
 ## Antes (arquivo.txt):<br>
 ### -Os dados eram salvos em texto plano no formato nome|quantidade|imagem.<br>
-### -Para sobrescrever ou editar, era necessário reprocessar o arquivo inteiro.<br>
-### -Menos seguro e difícil de escalar.<br>
+### -Menos seguro e difícil de escalar.<br><br>
 
 ## Agora (MySQL):<br>
 ### -Os dados são armazenados em colunas organizadas.<br>
-### -A edição e exclusão são simples e diretas.<br>
-### -Fácil de integrar com painéis, relatórios e outros sistemas.<br>
-### -Permite o uso de URLs remotas para imagens.<br><br><br>
+### -A edição e exclusão são simples e diretas.<br><br><br>
+
 
 ## Desafios Encontrados<br>
 
 ### -Conectar corretamente o PHP com o banco de dados.<br>
-### -Corrigir erro de nomes de colunas na tabela.<br>
+### -Ficar trocando de máquina.<br>
 ### -Manter o layout antigo mesmo com novas funcionalidades (editar e excluir).<br><br><br>
 
 ## Referências<br>
