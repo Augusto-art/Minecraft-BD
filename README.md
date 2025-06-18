@@ -29,7 +29,7 @@
 
 ## Estrutura da Tabela MySQL<br>
 
-### Para que o projeto pudesse editar e excluir funcionasse corretamente, foi criada a seguinte estrutura:<br>
+### Para que as ações de editar e excluir funcionasse corretamente, foi criada a seguinte estrutura:<br>
 
 CREATE TABLE mine (<br>
   Id INT(11) NOT NULL AUTO_INCREMENT,<br>
