@@ -27,9 +27,9 @@
 ### PHP e MySQL formam uma base sólida para aplicações web dinâmicas.
 ### Bootstrap permite interface amigável e responsiva. <br><br><br>
 
-## Código usado no MySQL para funcionar a edição e exclusão<br>
+## Estrutura da Tabela MySQL<br>
 
-### Para que o projeto pudesse editar e excluir corretamente os registros no banco, foi essencial definir um campo Id como chave primária e autoincrementável:<br>
+### Para que o projeto pudesse editar e excluir funcionasse corretamente, foi criada a seguinte estrutura:<br>
 
 CREATE TABLE mine (<br>
   Id INT(11) NOT NULL AUTO_INCREMENT,<br>
